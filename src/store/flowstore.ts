@@ -93,7 +93,7 @@ export const useFlowStore = create<FlowState>((set, get) => ({
 
     set({
       nodes: newNodes,
-      selectedNode: updatedNode ? { ...updatedNode } : get().selectedNode,
+      selectedNode: updatedNode ?? get().selectedNode,
     });
   },
 
