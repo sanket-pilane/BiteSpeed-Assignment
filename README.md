@@ -4,6 +4,8 @@ A **visual canvas** for building chatbot flows using **React**, **Next.js**, and
 
 ---
 
+[Live Preview 🚀](https://bite-speed-assignment-d96i.vercel.app/)
+
 ## ✨ Features
 
 - 🖱️ **Drag-and-drop node creation** with React Flow
